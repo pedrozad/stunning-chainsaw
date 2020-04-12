@@ -1,8 +1,8 @@
-# elquetuquieras
+# My first app in Flutter
 
-A new Flutter application.
+A new Flutter application. The second challenge of Flutter Course in Platzi 
 
-## Getting Started
+## Getting Started in Flutter
 
 This project is a starting point for a Flutter application.
 
